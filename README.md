@@ -14,4 +14,4 @@ If you find my scripts helpful, please consider sponsoring me on [GitHub Sponsor
 ## Availability for freelancing
 I'm currently available for part-time freelancing projects with a focus on Microsoft technologies, especially PowerShell, Active Directory, Azure, Office 365, and Intune. If you're interested in working with me, please feel free to reach out via email at camelia.bobaru@gmail.com. 💼
 
-Thanks for checking out my profile! 
+I'm fluent in English and German, and am happy to discuss any projects you may have in mind. Thanks for checking out my profile!
