@@ -1,3 +1,13 @@
+![Header](./github-header-image.png)
+<a href="https://github.com/sponsors/CameliaD">
+  <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" />
+</a><a href="https://www.linkedin.com/in/camelia-bobaru/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+</a>
+<a href="mailto:camelia.bobaru@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+
 Hi there! 👋 😊
 
 I'm Camelia, a passionate automation enthusiast with a strong focus on organization. I create user-friendly PowerShell scripts to help people streamline their routine and boost their productivity. 🚀
@@ -9,19 +19,12 @@ I'm constantly working on new PowerShell projects to help people automate their 
 All of my scripts come with detailed instructions on how to use them. Whether you're new to PowerShell or an experienced user, my scripts are designed to be easy to use and customizable to fit your specific needs. 
 
 # Support me
-If you find my scripts helpful, please consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/CameliaD). Your support will allow me to continue creating more useful and user-friendly PowerShell scripts. 🙏
+If you find my scripts helpful, please consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/CameliaD). Your support will allow me to continue creating more useful and user-friendly PowerShell scripts. 🙏 
 
 # Availability for freelancing
 I'm currently available for part-time freelancing projects with a focus on Microsoft technologies, especially PowerShell, Active Directory, Azure, Office 365, and Intune. If you're interested in working with me, please feel free to reach out via email or LinkedIn. 
 
 I'm fluent in English and German, and am happy to discuss any projects you may have in mind. Thanks for checking out my profile!
-
-<a href="https://www.linkedin.com/in/camelia-bobaru/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-</a>
-<a href="mailto:camelia.bobaru@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
-</a>
 
 # Repo Gallery
 <table style="text-align: center;">
